@@ -24,7 +24,7 @@
       },
       "config":{
       "googleMaps": {
-        "apiKey": "AIzaSyBOD8LAS4XqHtuQD6W-W0sF0aa4-_sJy4E"
+        "apiKey": "api key"
       }
       },
       "permissions": [
